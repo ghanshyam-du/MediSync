@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div>
           <img className='mb-5 w-40' src={assets.medisync} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>MediSync is a seamless doctor appointment management system designed to simplify healthcare scheduling. Our platform connects patients with trusted medical professionals, ensuring hassle-free bookings, timely reminders, and efficient consultation management. With a focus on convenience and accessibility, we strive to enhance the healthcare experience for both patients and doctors. Stay organized, stay healthy—MediSync is here to streamline your medical appointments.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>MediSync is a seamless doctor appointment management system designed to simplify healthcare scheduling. Our platform connects patients with trusted medical professionals,ensuring hassle-free bookings, timely reminders, and efficient consultation management. With a focus on convenience and accessibility, we strive to enhance the healthcare experience for both patients and doctors. Stay organized, stay healthy—MediSync is here to streamline your medical appointments.</p>
         </div>
 
         <div>
