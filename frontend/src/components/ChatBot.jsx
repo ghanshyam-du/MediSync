@@ -29,9 +29,8 @@ const ChatBot = () => {
 
     try {
       const response = await fetch(import.meta.env.VITE_GEMINI_API_URL, requestOptions);
-      console.log("resp", response);
       const data = await response.json();
-      console.log("data", data);
+
       if (!response.ok) {
         throw new Error(data?.error?.message || "Failed to fetch response from the API");
       }
