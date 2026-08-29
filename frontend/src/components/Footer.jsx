@@ -8,7 +8,7 @@ const Footer = () => {
 
         <div>
           <img className='mb-5 w-40' src={assets.medisync} alt="" />
-          <p className='w-full md:w-2/3 text-gray-600 leading-6'>MediSync is a seamless doctor appointment management system designed to simplify healthcare scheduling. Our platform connects patients with trusted medical professionals,ensuring hassle-free bookings, timely reminders, and efficient consultation management. With a focus on convenience and accessibility, we strive to enhance the healthcare experience for both patients and doctors. Stay organized, stay healthy—MediSync is here to streamline your medical appointments.</p>
+          <p className='w-full md:w-2/3 text-gray-600 leading-6'>MediSync is a seamless doctor appointment management system designed to simplify healthcare scheduling. Our platform connects patients with trusted medical professionals, ensuring hassle-free bookings, timely reminders, and efficient consultation management. With a focus on convenience and accessibility, we strive to enhance the healthcare experience for both patients and doctors. Stay organized, stay healthy—MediSync is here to streamline your medical appointments.</p>
         </div>
 
         <div>
@@ -24,8 +24,8 @@ const Footer = () => {
         <div>
           <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
           <ul className='flex flex-col gap-2 text-gray-600'>
-            <li>+1-212-456-7890</li>
-            <li>greatstackdev@gmail.com</li>
+            <li>+91 7367802941</li>
+            <li>b23018@students.iitmandi.ac.in</li>
           </ul>
         </div>
 
@@ -33,7 +33,7 @@ const Footer = () => {
 
       <div>
         <hr />
-        <p className='py-5 text-sm text-center'>Copyright 2024 @ MediSync.com - All Right Reserved.</p>
+        <p className='py-5 text-sm text-center'>Copyright 2026 @ MediSync.com - All Right Reserved.</p>
       </div>
 
     </div>
